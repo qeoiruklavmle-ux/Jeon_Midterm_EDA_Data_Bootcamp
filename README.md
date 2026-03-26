@@ -1,5 +1,5 @@
 # Bootcamp Midterm EDA Case Study: 
-# Labor Productivity Slowdown in the United States
+# Labor Productivity Slowdown in the United States 
 ## Capital Investment vs Technological Progress
 
 **Author:** Helen Jeon
@@ -151,6 +151,13 @@ Figure 8: Growth Accounting Decomposition of Productivity Growth
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/35d8e3a8-09fa-4e28-85ef-92bc549780bd" />
 
+### Additional Insight into Capital Contribution
+
+Further decomposition of capital reveals that not all forms of investment contribute equally to productivity growth. Figure 9 shows that ICT-related capital provides a more stable and consistently positive contribution, while non-ICT capital is more volatile and less reliable over time. This suggests that technology-oriented investment plays a more important role in supporting sustained productivity growth than traditional forms of capital.
+
+Figure 9: ICT and Non-ICT Capital Contributions to Productivity Growth Over Time
+
+<img width="500" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/af4a2e9d-8efb-4460-abd8-a08ef8d01d24"/>
 
 ---
 
