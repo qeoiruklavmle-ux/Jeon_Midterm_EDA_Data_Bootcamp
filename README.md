@@ -1,4 +1,4 @@
-# Bootcamp Midterm EDA Case Study: Productivity Growth Rates
+# Bootcamp Midterm EDA Case Study: Labor Productivity Growth
 
 **Author:** Helen Jeon
 
