@@ -72,7 +72,7 @@ Productivity growth is a key driver of long-term economic performance, influenci
 
 Understanding the slowdown in U.S. productivity growth begins with examining how productivity has evolved over time.  Identifying long-term trends in productivity growth is therefore a critical first step in determining whether a structural slowdown has occurred.
 
-Figure 1: Productivity Growth Rate
+Figure 1: U.S. Productivity Growth Rates Over Time
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4f7e4c1c-9b5d-451e-a328-669a8abb3984" />
 
@@ -95,7 +95,7 @@ Figure 3: Distribution of Productivity Growth Rates (1996 - 2024)
 
 A more precise way to quantify this change is through percentile analysis (Figure 4). Comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, can determine whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
 
-Figure 4: Distributional Decline in U.S. Productivity Growth Across Percentiles
+Figure 4: Shift in U.S. Productivity Growth Across Percentiles (Pre- vs Post-2000)
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d813c72-b37d-4e1f-b98b-1b411189c483" />
 
@@ -113,19 +113,24 @@ The comparison of percentiles shows a clear downward shift in the distribution o
 
 To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix (Figure 5) highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
 
-Figure 5: Correlation Heatmap of Productivity Growth and Other Factors
+Figure 5: Correlation Between Productivity Growth, Capital Deepening, and MFP
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ae59120e-ab1f-4eeb-9874-c206c97238ea" />
 
 * Labor productivity (GDPHRS) is strongly positively correlated with MFP (0.88) and capital deepening (KSERHRS, 0.80), indicating both are key drivers of productivity. 
 
-Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP as a Moderating Factor
+Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" />
 
 * Positive relationship between productivity growth and capital deepening, indicating that higher productivity growth is generally associated with greater capital investment per worker.
 * Points with higher MFP tend to cluster at higher levels of productivity and capital deepening, suggesting that technological progress amplifies both productivity and capital utilization. 
 
+The comparison of growth rates over time in Figure 7 provides important insight into the drivers of productivity dynamics. While capital deepening exhibits higher overall growth rates, it is also significantly more volatile and does not closely track changes in productivity. In contrast, productivity growth aligns more closely with trends in multifactor productivity (MFP), particularly during periods of both expansion and slowdown. Notably, the decline in productivity (2005 - 2008) coincides with weaker and more inconsistent MFP growth, despite continued contributions from capital. This suggests that fluctuations in technological progress play a more critical role in driving changes in productivity growth over time.
+
+Figure 7: Growth Rates of Productivity, Capital Deepening, and MFP Over Time
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d8478b4f-75ca-41c7-9fda-0c16b1b0ee6b" />
 
 
 ---
