@@ -97,13 +97,13 @@ Figure 3: Distribution of Productivity Growth Rates (1996 - 2024)
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2786e3c1-b635-41e2-baef-1718b4152e9a" />
 
-A more precise way to quantify this change is through percentile analysis (Figure 4). By comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, we can determine whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
+A more precise way to quantify this change is through percentile analysis (Figure 4). Comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, can determine whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
 
-Figure 4:
+Figure 4: Distributional Decline in U.S. Productivity Growth Across Percentiles
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d813c72-b37d-4e1f-b98b-1b411189c483" />
 
-Table 1:
+Table 1: Comparison of U.S. Productivity Growth Percentiles (Pre- vs Post-2000)
 
 | Percentile | Pre-2000 (%) | Post-2000 (%) | Difference |
 | :--- | :--- | :--- | :--- |
@@ -112,6 +112,18 @@ Table 1:
 | 75th	| 2.314 |	1.778	| 🔻 -0.537 |
 
 The comparison of percentiles shows a clear downward shift in the distribution of productivity growth. The median growth rate declined significantly from 1.64% to 1.19%, while the 75th percentile also fell by more than 0.5 percentage points (Table 1). This indicates that not only has typical productivity growth weakened, but even the strongest growth periods are less robust than before. Therefore, the slowdown reflects a broad structural decline.
+
+## Analysis
+
+To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix (Figure 5) highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
+
+Figure 5: Correlation Heatmap of Productivity Growth and Other Factors
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ae59120e-ab1f-4eeb-9874-c206c97238ea" />
+
+* Labor productivity (GDPHRS) is strongly positively correlated with MFP (0.88) and capital deepening (KSERHRS, 0.80), indicating both are key drivers of productivity. 
+
+
 
 
 ---
