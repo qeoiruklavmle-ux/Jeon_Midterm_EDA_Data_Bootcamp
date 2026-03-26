@@ -124,7 +124,7 @@ Figure 5: Correlation Between Productivity Growth, Capital Deepening, and MFP
 
 Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" />
 
 * Positive relationship between productivity growth and capital deepening, indicating that higher productivity growth is generally associated with greater capital investment per worker.
 * Points with higher MFP tend to cluster at higher levels of productivity and capital deepening, suggesting that technological progress amplifies both productivity and capital utilization. 
