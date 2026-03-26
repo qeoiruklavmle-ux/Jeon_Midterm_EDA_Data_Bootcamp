@@ -50,16 +50,12 @@ While capital deepening remains relatively stable and continues to contribute to
 
 **This indicates a structural slowdown rather than a temporary fluctuation.**
 
----
-
 ### 2. Productivity is strongly linked to MFP
 - Strong correlation between productivity and MFP (~0.88)  
 - Slightly weaker but still strong correlation with capital (~0.80)
 - Productivity closely follows MFP patterns  
 
 **This suggests MFP plays a stronger role in productivity changes.**
-
----
 
 ### 3. Pre vs Post 2000 comparison
 - Capital contribution is relatively stable
