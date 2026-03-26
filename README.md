@@ -84,19 +84,9 @@ Figure 1: U.S. Productivity Growth Rates Over Time
     *	Growth mostly stays around ~1% or lower
 
 ### Distribution of Labor Productivity Growth Rates Pre and Post 2000
-To further understand the nature of the slowdown, it is important to examine how the distribution of  growth rates has changed over time. Figure 2 shows the distribution of productivity growth rates throughout 1960 to 2024, where observations are more spread out and include a higher concentration of moderate-to-high growth outcomes. In contrast, Figure 3 shows the distribution in the later period (1996 - 2024), which appears more concentrated around lower growth rates and includes fewer high-growth observations. This visual comparison suggests a leftward shift in the distribution of productivity growth, indicating that the slowdown is not limited to a few periods but reflects a broader change across the entire distribution.
+To further understand the nature of the slowdown, it is important to examine how the distribution of  growth rates has changed over time. Figure 2 quantifies this change through percentile analysis. Comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, determines whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
 
-Figure 2: Distribution of Productivity Growth Rates (1960 - 2024)
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/69d95978-ceff-412a-a481-6ab43f1b3718" />
-
-Figure 3: Distribution of Productivity Growth Rates (1996 - 2024)
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2786e3c1-b635-41e2-baef-1718b4152e9a" />
-
-A more precise way to quantify this change is through percentile analysis (Figure 4). Comparing key points in the distribution, such as the 25th, 50th (median), and 75th percentiles, can determine whether the slowdown is concentrated in certain segments or reflects a broader structural shift.
-
-Figure 4: Shift in U.S. Productivity Growth Across Percentiles (Pre- vs Post-2000)
+Figure 2: Shift in U.S. Productivity Growth Across Percentiles (Pre- vs Post-2000)
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6d813c72-b37d-4e1f-b98b-1b411189c483" />
 
@@ -114,21 +104,21 @@ The comparison of percentiles shows a clear downward shift in the distribution o
 
 ### Factors of Labor Productivity Growth
 
-To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix in Figure 5 highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
+To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix in Figure 3 highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
 
-Figure 5: Correlation Between Productivity Growth, Capital Deepening, and MFP
+Figure 3: Correlation Between Productivity Growth, Capital Deepening, and MFP
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ae59120e-ab1f-4eeb-9874-c206c97238ea" />
 
-While the correlation matrix highlights a strong positive relationship between productivity growth, capital deepening, and multifactor productivity (MFP), the scatter plot in Figure 6 provides a more detailed view of how these variables interact. The positive relationship between productivity growth and capital deepening is evident, as higher levels of capital are generally associated with higher productivity. However, the inclusion of MFP as a third dimension reveals that observations with higher MFP consistently correspond to higher productivity outcomes, even at similar levels of capital. This suggests that while capital supports productivity, technological progress plays a critical role in amplifying its effects, reinforcing the idea that MFP is a key driver of productivity growth.
+While the correlation matrix highlights a strong positive relationship between productivity growth, capital deepening, and multifactor productivity (MFP), the scatter plot in Figure 4 provides a more detailed view of how these variables interact. The positive relationship between productivity growth and capital deepening is evident, as higher levels of capital are generally associated with higher productivity. However, the inclusion of MFP as a third dimension reveals that observations with higher MFP consistently correspond to higher productivity outcomes, even at similar levels of capital. This suggests that while capital supports productivity, technological progress plays a critical role in amplifying its effects, reinforcing the idea that MFP is a key driver of productivity growth.
 
-Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP
+Figure 4: Relationship Between Productivity Growth and Capital Deepening with MFP
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" /> 
 
-The comparison of growth rates over time in Figure 7 provides important insight into the drivers of productivity dynamics. While capital deepening exhibits higher overall growth rates, it is also significantly more volatile and does not closely track changes in productivity. In contrast, productivity growth aligns more closely with trends in multifactor productivity (MFP), particularly during periods of both expansion and slowdown. Notably, the decline in productivity (2005 - 2008) coincides with weaker and more inconsistent MFP growth, despite continued contributions from capital. This suggests that fluctuations in technological progress play a more critical role in driving changes in productivity growth over time.
+The comparison of growth rates over time in Figure 5 provides important insight into the drivers of productivity dynamics. While capital deepening exhibits higher overall growth rates, it is also significantly more volatile and does not closely track changes in productivity. In contrast, productivity growth aligns more closely with trends in multifactor productivity (MFP), particularly during periods of both expansion and slowdown. Notably, the decline in productivity (2005 - 2008) coincides with weaker and more inconsistent MFP growth, despite continued contributions from capital. This suggests that fluctuations in technological progress play a more critical role in driving changes in productivity growth over time.
 
-Figure 7: Growth Rates of Productivity, Capital Deepening, and MFP Over Time
+Figure 5: Growth Rates of Productivity, Capital Deepening, and MFP Over Time
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d8478b4f-75ca-41c7-9fda-0c16b1b0ee6b" />
 
@@ -142,17 +132,17 @@ The Solow model suggests that labor productivity growth rate (Y/L) is broken dow
 
 <img width="476" height="122" alt="Screenshot 2026-03-26 at 17-12-55 solow labor productivity growth equation - Google Search" src="https://github.com/user-attachments/assets/91c67709-c88b-435a-b0c1-012cbf167a8b" />
 
-Figure 8 presents an OECD-based growth accounting decomposition of productivity. While capital provides a relatively stable foundation, fluctuations in productivity closely mirror changes in MFP, particularly during periods of slowdown and recovery. This suggests that variations in technological progress, rather than capital investment, play a more significant role in driving changes in productivity growth over time.
+Figure 6 presents an OECD-based growth accounting decomposition of productivity. While capital provides a relatively stable foundation, fluctuations in productivity closely mirror changes in MFP, particularly during periods of slowdown and recovery. This suggests that variations in technological progress, rather than capital investment, play a more significant role in driving changes in productivity growth over time.
 
-Figure 8: Growth Accounting Decomposition of Productivity Growth
+Figure 6: Growth Accounting Decomposition of Productivity Growth
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/35d8e3a8-09fa-4e28-85ef-92bc549780bd" />
 
 ### Additional Insight into Capital Contribution
 
-Further decomposition of capital reveals that not all forms of investment contribute equally to productivity growth. Figure 9 shows that ICT-related capital provides a more stable and consistently positive contribution, while non-ICT capital is more volatile and less reliable over time. This suggests that technology-oriented investment plays a more important role in supporting sustained productivity growth than traditional forms of capital.
+Further decomposition of capital reveals that not all forms of investment contribute equally to productivity growth. Figure 7 shows that ICT-related capital provides a more stable and consistently positive contribution, while non-ICT capital is more volatile and less reliable over time. This suggests that technology-oriented investment plays a more important role in supporting sustained productivity growth than traditional forms of capital.
 
-Figure 9: ICT and Non-ICT Capital Contributions to Productivity Growth Over Time
+Figure 7: ICT and Non-ICT Capital Contributions to Productivity Growth Over Time
 
 <img width="500" height="500" alt="Untitled" src="https://github.com/user-attachments/assets/af4a2e9d-8efb-4460-abd8-a08ef8d01d24"/>
 
