@@ -14,3 +14,5 @@
 | README.md | Documentation: The main landing page explaining project scope and findings. |
 
 ---
+
+<img width="283" height="228" alt="image" src="https://github.com/user-attachments/assets/f28834d4-e7f7-49ac-9f9b-2d2b83c5ba8f" />
