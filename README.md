@@ -21,7 +21,7 @@
 * Labor Productivity: Efficiency of labor inputs in conjunction with other factors of production (capital and multifactor productivity).  
 * Capital Deepening: Refers to an increase in the proportion of the capital stock to the number of labor hours worked.
 * Multifactor Productivity: Reflects the overall efficiency of combining labor and capital inputs (interchangeable with technological progress in this case).
-* ICT Capital: Acquisition of equipment and computer software that is used in production for more than one year.
+* ICT Capital: Acquisition of equipment and computer software (technology) that is used in production for more than one year.
 
 Source: OECD
 
