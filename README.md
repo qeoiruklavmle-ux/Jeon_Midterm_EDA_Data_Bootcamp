@@ -114,20 +114,17 @@ The comparison of percentiles shows a clear downward shift in the distribution o
 
 ### Factors of Labor Productivity Growth
 
-To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix (Figure 5) highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
+To understand the underlying drivers of the broad structural slowdown, the project investigates  the relationships between productivity and its key inputs. In particular, capital deepening and technological progress represent the primary channels through which productivity evolves over time. The following correlation matrix in Figure 5 highlights how closely productivity growth is associated with these factors, providing insight into whether changes in capital investment or technological progress play a more significant role in shaping productivity outcomes.
 
 Figure 5: Correlation Between Productivity Growth, Capital Deepening, and MFP
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ae59120e-ab1f-4eeb-9874-c206c97238ea" />
 
-* Labor productivity (GDPHRS) is strongly positively correlated with MFP (0.88) and capital deepening (KSERHRS, 0.80), indicating both are key drivers of productivity. 
+While the correlation matrix highlights a strong positive relationship between productivity growth, capital deepening, and multifactor productivity (MFP), the scatter plot in Figure 6 provides a more detailed view of how these variables interact. The positive relationship between productivity growth and capital deepening is evident, as higher levels of capital are generally associated with higher productivity. However, the inclusion of MFP as a third dimension reveals that observations with higher MFP consistently correspond to higher productivity outcomes, even at similar levels of capital. This suggests that while capital supports productivity, technological progress plays a critical role in amplifying its effects, reinforcing the idea that MFP is a key driver of productivity growth.
 
 Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" />
-
-* Positive relationship between productivity growth and capital deepening, indicating that higher productivity growth is generally associated with greater capital investment per worker.
-* Points with higher MFP tend to cluster at higher levels of productivity and capital deepening, suggesting that technological progress amplifies both productivity and capital utilization. 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" /> 
 
 The comparison of growth rates over time in Figure 7 provides important insight into the drivers of productivity dynamics. While capital deepening exhibits higher overall growth rates, it is also significantly more volatile and does not closely track changes in productivity. In contrast, productivity growth aligns more closely with trends in multifactor productivity (MFP), particularly during periods of both expansion and slowdown. Notably, the decline in productivity (2005 - 2008) coincides with weaker and more inconsistent MFP growth, despite continued contributions from capital. This suggests that fluctuations in technological progress play a more critical role in driving changes in productivity growth over time.
 
