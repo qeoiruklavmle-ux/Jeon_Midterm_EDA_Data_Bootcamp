@@ -119,6 +119,12 @@ Figure 5: Correlation Heatmap of Productivity Growth and Other Factors
 
 * Labor productivity (GDPHRS) is strongly positively correlated with MFP (0.88) and capital deepening (KSERHRS, 0.80), indicating both are key drivers of productivity. 
 
+Figure 6: Relationship Between Productivity Growth and Capital Deepening with MFP as a Moderating Factor
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c1e412b1-1a5e-42bd-b9e1-ae84b55ab756" />
+
+* Positive relationship between productivity growth and capital deepening, indicating that higher productivity growth is generally associated with greater capital investment per worker.
+* Points with higher MFP tend to cluster at higher levels of productivity and capital deepening, suggesting that technological progress amplifies both productivity and capital utilization. 
 
 
 
